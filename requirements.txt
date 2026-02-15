@@ -1,0 +1,1 @@
+torch\ntorchvision\ngradio\npillow
